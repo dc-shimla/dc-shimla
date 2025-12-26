@@ -41,10 +41,10 @@ By day, I solve enterprise scale infrastructure challenges at **GFL Environmenta
 
 ## 💻 Focus Areas
 
-- **Security-conscious infrastructure
-- **Privacy-first application design
-- **Cost optimization
-- **Developer experience
+- **Security-conscious infrastructure**
+- **Privacy-first application design**
+- **Cost optimization**
+- **Developer experience**
 
 ---
 
