@@ -51,7 +51,7 @@ By day, I solve enterprise scale infrastructure challenges at **GFL Environmenta
 ## 📊 Philosophy
 
 ✅ **Best Tool for the Job** – Tech agnostic approach, focused on outcomes over preferences  
-✅ **Enterprise-Realistic** – Solutions that work at scale with real constraints
+✅ **Enterprise-Realistic** – Solutions that work at scale with real constraints   
 ✅ **Authentically Technical** – Deep expertise without unnecessary jargon  
 ✅ **Security-First** – Building guardrails, not just speed  
 ✅ **Community-Focused** – Sharing learnings, collaborating openly  
