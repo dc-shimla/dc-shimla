@@ -70,7 +70,7 @@ By day, I solve enterprise scale infrastructure challenges at **GFL Environmenta
 
 ## 📫 How to Reach Me
 
-- **Blog**: [mycloudcondo.com](https://mycloudcondo.com)
+- **Blog**: [mycloudcondo.com](https://www.mycloudcondo.com)
 - **LinkedIn**: [linkedin.com/in/dhruv-chaudhary](https://www.linkedin.com/in/dhruv-chaudhary/)
 - **GitHub Issues**: Always open for collaboration discussions on my projects
 
