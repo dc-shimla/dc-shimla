@@ -7,6 +7,11 @@ By day, I solve enterprise scale infrastructure challenges at **GFL Environmenta
 ---
 
 ## 🔭 Current Projects
+**[Brahmand | ब्रह्मांड]** – A cozy, folklore-driven JRPG built in RPG Maker MZ
+- Friendship-first adventure-mystery: four childhood friends trace a dead scholar's journal to a vanished civilization that crossed between parallel worlds
+- Hindi/Sanskrit folklore and Himachali myth throughout — *gagan-bindu* "sky-drops," the बीहड़ badlands, folklore-grounded enemies — ending on two bittersweet choices
+- Hand-built solo (story, characters, combat, event scripting); ~30–60 min, Act 1 shipping to itch.io
+
 
 **[KUYAN](https://github.com/dc-shimla/kuyan)** – Privacy-focused net worth tracker
 - Local-first Python/Streamlit application
